@@ -1,3 +1,3 @@
-# currency_converter_app
+# Currency Converter App
 
-A new Flutter project.
+A basic Flutter currency converter project with Material 3 UI, splash screen, theme toggle, conversion, history, and about screens.
